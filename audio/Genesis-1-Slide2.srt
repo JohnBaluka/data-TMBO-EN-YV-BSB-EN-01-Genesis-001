@@ -1,0 +1,8 @@
+1
+00:00:00,035 --> 00:00:02,705
+In the beginning God created the heavens and the earth.
+
+2
+00:00:03,088 --> 00:00:12,422
+Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.
+
