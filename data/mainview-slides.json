@@ -36,7 +36,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide1.htm",
     "subtitlesFile": "audio/Genesis-1-Slide1.srt",
-    "videoStart": 2
+    "videoStart": 0
   },
   {
     "index": 2,
@@ -75,7 +75,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide2.htm",
     "subtitlesFile": "audio/Genesis-1-Slide2.srt",
-    "videoStart": 3.524
+    "videoStart": 1.524
   },
   {
     "index": 3,
@@ -114,7 +114,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide3.htm",
     "subtitlesFile": "audio/Genesis-1-Slide3.srt",
-    "videoStart": 17.946
+    "videoStart": 13.946000000000002
   },
   {
     "index": 4,
@@ -153,7 +153,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide4.htm",
     "subtitlesFile": "audio/Genesis-1-Slide4.srt",
-    "videoStart": 39.184
+    "videoStart": 33.184
   },
   {
     "index": 5,
@@ -192,7 +192,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide5.htm",
     "subtitlesFile": "audio/Genesis-1-Slide5.srt",
-    "videoStart": 60.236
+    "videoStart": 52.236
   },
   {
     "index": 6,
@@ -231,7 +231,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide6.htm",
     "subtitlesFile": "audio/Genesis-1-Slide6.srt",
-    "videoStart": 78.88499999999999
+    "videoStart": 68.88499999999999
   },
   {
     "index": 7,
@@ -270,7 +270,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide7.htm",
     "subtitlesFile": "audio/Genesis-1-Slide7.srt",
-    "videoStart": 107.73899999999999
+    "videoStart": 95.73899999999999
   },
   {
     "index": 8,
@@ -309,7 +309,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide8.htm",
     "subtitlesFile": "audio/Genesis-1-Slide8.srt",
-    "videoStart": 134.82799999999997
+    "videoStart": 120.82799999999999
   },
   {
     "index": 9,
@@ -348,7 +348,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide9.htm",
     "subtitlesFile": "audio/Genesis-1-Slide9.srt",
-    "videoStart": 152.32799999999997
+    "videoStart": 136.32799999999997
   },
   {
     "index": 10,
@@ -387,7 +387,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide10.htm",
     "subtitlesFile": "audio/Genesis-1-Slide10.srt",
-    "videoStart": 175.09799999999998
+    "videoStart": 157.09799999999998
   },
   {
     "index": 11,
@@ -426,7 +426,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide11.htm",
     "subtitlesFile": "audio/Genesis-1-Slide11.srt",
-    "videoStart": 189.683
+    "videoStart": 169.683
   },
   {
     "index": 12,
@@ -465,7 +465,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide12.htm",
     "subtitlesFile": "audio/Genesis-1-Slide12.srt",
-    "videoStart": 214.99599999999998
+    "videoStart": 192.99599999999998
   },
   {
     "index": 13,
@@ -504,7 +504,7 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide13.htm",
     "subtitlesFile": "audio/Genesis-1-Slide13.srt",
-    "videoStart": 251.57099999999997
+    "videoStart": 227.57099999999997
   },
   {
     "index": 14,
@@ -543,6 +543,6 @@
     "videoFile": "",
     "notesFile": "notes/Genesis-1-Slide14.htm",
     "subtitlesFile": "audio/Genesis-1-Slide14.srt",
-    "videoStart": 286.43899999999996
+    "videoStart": 260.43899999999996
   }
 ]
